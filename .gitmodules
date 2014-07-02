@@ -10,3 +10,18 @@
 [submodule "xQuotes"]
 	path = xQuotes
 	url = https://github.com/SuperDomX/xQuotes
+[submodule "xInbox"]
+	path = xInbox
+	url = https://github.com/SuperDomX/xInbox
+[submodule "xUpload"]
+	path = xUpload
+	url = https://github.com/SuperDomX/xUpload
+[submodule "xDownloads"]
+	path = xDownloads
+	url = https://github.com/SuperDomX/xDownloads
+[submodule "xNewsletter"]
+	path = xNewsletter
+	url = https://github.com/SuperDomX/xNewsletter
+[submodule "xSupport"]
+	path = xSupport
+	url = https://github.com/SuperDomX/xSupport
