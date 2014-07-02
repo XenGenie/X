@@ -1,0 +1,12 @@
+[submodule "xUsers"]
+	path = xUsers
+	url = https://github.com/SuperDomX/xUsers
+[submodule "xNexus"]
+	path = xNexus
+	url = https://github.com/SuperDomX/xNexus
+[submodule "xAffiliations"]
+	path = xAffiliations
+	url = https://github.com/SuperDomX/xAffiliations
+[submodule "xQuotes"]
+	path = xQuotes
+	url = https://github.com/SuperDomX/xQuotes
