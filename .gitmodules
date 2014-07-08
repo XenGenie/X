@@ -25,3 +25,42 @@
 [submodule "xSupport"]
 	path = xSupport
 	url = https://github.com/SuperDomX/xSupport
+[submodule "xAccess"]
+	path = xAccess
+	url = https://github.com/SuperDomX/xAccess
+[submodule "xBackup"]
+	path = xBackup
+	url = https://github.com/SuperDomX/xBackup
+[submodule "xBanner"]
+	path = xBanner
+	url = https://github.com/SuperDomX/xBanner
+[submodule "xBlog"]
+	path = xBlog
+	url = https://github.com/SuperDomX/xBlog
+[submodule "xBlox"]
+	path = xBlox
+	url = https://github.com/SuperDomX/xBlox
+[submodule "xContact"]
+	path = xContact
+	url = https://github.com/SuperDomX/xContact
+[submodule "xDenied"]
+	path = xDenied
+	url = https://github.com/SuperDomX/xDenied
+[submodule "xFileServer"]
+	path = xFileServer
+	url = https://github.com/SuperDomX/xFileServer
+[submodule "xLang"]
+	path = xLang
+	url = https://github.com/SuperDomX/xLang
+[submodule "xLogin"]
+	path = xLogin
+	url = https://github.com/SuperDomX/xLogin
+[submodule "xNavigation"]
+	path = xNavigation
+	url = https://github.com/SuperDomX/xNavigation
+[submodule "xVitals"]
+	path = xVitals
+	url = https://github.com/SuperDomX/xVitals
+[submodule "xWwwSetup"]
+	path = xWwwSetup
+	url = https://github.com/SuperDomX/xWwwSetup
