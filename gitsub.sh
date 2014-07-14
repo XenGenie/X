@@ -8,5 +8,5 @@ do
 	git rm -rf --cached $x
 	rm $x -r
 	printf "Adding submodule %s .git\n" $x
-	git submodule add -b master -f https://github.com/SuperDomX/$x $x
+	git submodule add -f https://github.com/SuperDomX/$x $x
 done
