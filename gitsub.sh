@@ -6,6 +6,7 @@ do
 	x=${BASH_REMATCH[0]}
 	printf "Remove  %s\n" $x
 	git rm $x -rf 
+	rm $x -r
 	printf "Adding submodule %s .git\n" $x
 	git submodule add -b master -f https://github.com/SuperDomX/$x $x
 done
