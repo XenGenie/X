@@ -9,4 +9,10 @@ do
 	rm $x -r
 	printf "Adding submodule %s .git\n" $x
 	git submodule add -f https://github.com/SuperDomX/$x $x
+
+	cd $x
+	git submodule init
+	git submodule update
+	cd ..
+ 
 done
