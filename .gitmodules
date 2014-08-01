@@ -64,3 +64,6 @@
 [submodule "xWwwSetup"]
 	path = xWwwSetup
 	url = https://github.com/SuperDomX/xWwwSetup
+[submodule "xShop"]
+	path = xShop
+	url = https://github.com/SuperDomX/xShop
