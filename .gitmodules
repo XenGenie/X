@@ -67,3 +67,6 @@
 [submodule "xShop"]
 	path = xShop
 	url = https://github.com/SuperDomX/xShop
+[submodule "xMembership"]
+	path = xMembership
+	url = https://github.com/superdomx/xMembership
