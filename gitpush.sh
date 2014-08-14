@@ -6,6 +6,6 @@ do
     git pull origin master
     git add .
     git commit -a -m "$x Automated Nightly Push"
-    git push origin +HEAD:refs/heads/nightly
+    git push origin +HEAD:refs/heads/master
     cd ..
 done 
