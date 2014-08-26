@@ -73,3 +73,6 @@
 [submodule "xTreasurer"]
 	path = xTreasurer
 	url = https://github.com/superdomx/xTreasurer
+[submodule "xYouMeOS"]
+	path = xYouMeOS
+	url = https://github.com/superdomx/xYouMeOS
