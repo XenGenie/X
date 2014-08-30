@@ -76,3 +76,6 @@
 [submodule "xYouMeOS"]
 	path = xYouMeOS
 	url = https://github.com/superdomx/xYouMeOS
+[submodule "xCalendar"]
+	path = xCalendar
+	url = https://github.com/superdomx/xCalendar
