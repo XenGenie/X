@@ -82,3 +82,6 @@
 [submodule "xForum"]
 	path = xForum
 	url = https://github.com/superdomx/xForum
+[submodule "xShipping"]
+	path = xShipping
+	url = https://github.com/superdomx/xShipping
