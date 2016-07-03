@@ -85,3 +85,9 @@
 [submodule "xShipping"]
 	path = xShipping
 	url = https://github.com/superdomx/xShipping
+[submodule "xSheets"]
+	path = xSheets
+	url = git@github.com:SuperDomX/xSheets.git
+[submodule "xAdvertise"]
+	path = xAdvertise
+	url = git@github.com:SuperDomX/xAdvertise.git
