@@ -1,93 +1,93 @@
 [submodule "xUsers"]
-	path = xUsers
-	url = https://github.com/SuperDomX/xUsers
+  path = xUsers
+  url = https://github.com/SuperDomX/xUsers
 [submodule "xNexus"]
-	path = xNexus
-	url = https://github.com/SuperDomX/xNexus
+  path = xNexus
+  url = https://github.com/SuperDomX/xNexus
 [submodule "xAffiliations"]
-	path = xAffiliations
-	url = https://github.com/SuperDomX/xAffiliations
+  path = xAffiliations
+  url = https://github.com/SuperDomX/xAffiliations
 [submodule "xQuotes"]
-	path = xQuotes
-	url = https://github.com/SuperDomX/xQuotes
+  path = xQuotes
+  url = https://github.com/SuperDomX/xQuotes
 [submodule "xInbox"]
-	path = xInbox
-	url = https://github.com/SuperDomX/xInbox
+  path = xInbox
+  url = https://github.com/SuperDomX/xInbox
 [submodule "xUpload"]
-	path = xUpload
-	url = https://github.com/SuperDomX/xUpload
+  path = xUpload
+  url = https://github.com/SuperDomX/xUpload
 [submodule "xDownloads"]
-	path = xDownloads
-	url = https://github.com/SuperDomX/xDownloads
+  path = xDownloads
+  url = https://github.com/SuperDomX/xDownloads
 [submodule "xNewsletter"]
-	path = xNewsletter
-	url = https://github.com/SuperDomX/xNewsletter
+  path = xNewsletter
+  url = https://github.com/SuperDomX/xNewsletter
 [submodule "xSupport"]
-	path = xSupport
-	url = https://github.com/SuperDomX/xSupport
+  path = xSupport
+  url = https://github.com/SuperDomX/xSupport
 [submodule "xAccess"]
-	path = xAccess
-	url = https://github.com/SuperDomX/xAccess
+  path = xAccess
+  url = https://github.com/SuperDomX/xAccess
 [submodule "xBackup"]
-	path = xBackup
-	url = https://github.com/SuperDomX/xBackup
+  path = xBackup
+  url = https://github.com/SuperDomX/xBackup
 [submodule "xBanner"]
-	path = xBanner
-	url = https://github.com/SuperDomX/xBanner
+  path = xBanner
+  url = https://github.com/SuperDomX/xBanner
 [submodule "xBlog"]
-	path = xBlog
-	url = https://github.com/SuperDomX/xBlog
+  path = xBlog
+  url = https://github.com/SuperDomX/xBlog
 [submodule "xBlox"]
-	path = xBlox
-	url = https://github.com/SuperDomX/xBlox
+  path = xBlox
+  url = https://github.com/SuperDomX/xBlox
 [submodule "xContact"]
-	path = xContact
-	url = https://github.com/SuperDomX/xContact
+  path = xContact
+  url = https://github.com/SuperDomX/xContact
 [submodule "xDenied"]
-	path = xDenied
-	url = https://github.com/SuperDomX/xDenied
+  path = xDenied
+  url = https://github.com/SuperDomX/xDenied
 [submodule "xFileServer"]
-	path = xFileServer
-	url = https://github.com/SuperDomX/xFileServer
+  path = xFileServer
+  url = https://github.com/SuperDomX/xFileServer
 [submodule "xLang"]
-	path = xLang
-	url = https://github.com/SuperDomX/xLang
+  path = xLang
+  url = https://github.com/SuperDomX/xLang
 [submodule "xLogin"]
-	path = xLogin
-	url = https://github.com/SuperDomX/xLogin
+  path = xLogin
+  url = https://github.com/SuperDomX/xLogin
 [submodule "xNavigation"]
-	path = xNavigation
-	url = https://github.com/SuperDomX/xNavigation
+  path = xNavigation
+  url = https://github.com/SuperDomX/xNavigation
 [submodule "xVitals"]
-	path = xVitals
-	url = https://github.com/SuperDomX/xVitals
+  path = xVitals
+  url = https://github.com/SuperDomX/xVitals
 [submodule "xWwwSetup"]
-	path = xWwwSetup
-	url = https://github.com/SuperDomX/xWwwSetup
+  path = xWwwSetup
+  url = https://github.com/SuperDomX/xWwwSetup
 [submodule "xShop"]
-	path = xShop
-	url = https://github.com/SuperDomX/xShop
+  path = xShop
+  url = https://github.com/SuperDomX/xShop
 [submodule "xMembership"]
-	path = xMembership
-	url = https://github.com/superdomx/xMembership
+  path = xMembership
+  url = https://github.com/superdomx/xMembership
 [submodule "xTreasurer"]
-	path = xTreasurer
-	url = https://github.com/superdomx/xTreasurer
+  path = xTreasurer
+  url = https://github.com/superdomx/xTreasurer
 [submodule "xYouMeOS"]
-	path = xYouMeOS
-	url = https://github.com/superdomx/xYouMeOS
+  path = xYouMeOS
+  url = https://github.com/superdomx/xYouMeOS
 [submodule "xCalendar"]
-	path = xCalendar
-	url = https://github.com/superdomx/xCalendar
+  path = xCalendar
+  url = https://github.com/superdomx/xCalendar
 [submodule "xForum"]
-	path = xForum
-	url = https://github.com/superdomx/xForum
+  path = xForum
+  url = https://github.com/superdomx/xForum
 [submodule "xShipping"]
-	path = xShipping
-	url = https://github.com/superdomx/xShipping
+  path = xShipping
+  url = https://github.com/superdomx/xShipping
 [submodule "xSheets"]
-	path = xSheets
-	url = https://github.com/superdomx/xSheets.git
+  path = xSheets
+  url = https://github.com/superdomx/xSheets.git
 [submodule "xAdvertise"]
-	path = xAdvertise
-	url = https://github.com/superdomx/xAdvertise.git
+  path = xAdvertise
+  url = https://github.com/superdomx/xAdvertise.git
