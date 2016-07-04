@@ -69,25 +69,25 @@
   url = https://github.com/SuperDomX/xShop
 [submodule "xMembership"]
   path = xMembership
-  url = https://github.com/superdomx/xMembership
+  url = https://github.com/SuperDomX/xMembership
 [submodule "xTreasurer"]
   path = xTreasurer
-  url = https://github.com/superdomx/xTreasurer
+  url = https://github.com/SuperDomX/xTreasurer
 [submodule "xYouMeOS"]
   path = xYouMeOS
-  url = https://github.com/superdomx/xYouMeOS
+  url = https://github.com/SuperDomX/xYouMeOS
 [submodule "xCalendar"]
   path = xCalendar
-  url = https://github.com/superdomx/xCalendar
+  url = https://github.com/SuperDomX/xCalendar
 [submodule "xForum"]
   path = xForum
-  url = https://github.com/superdomx/xForum
+  url = https://github.com/SuperDomX/xForum
 [submodule "xShipping"]
   path = xShipping
-  url = https://github.com/superdomx/xShipping
+  url = https://github.com/SuperDomX/xShipping
 [submodule "xSheets"]
   path = xSheets
-  url = https://github.com/superdomx/xSheets.git
+  url = https://github.com/SuperDomX/xSheets.git
 [submodule "xAdvertise"]
   path = xAdvertise
-  url = https://github.com/superdomx/xAdvertise.git
+  url = https://github.com/SuperDomX/xAdvertise.git
