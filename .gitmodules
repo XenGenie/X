@@ -91,3 +91,6 @@
 [submodule "xAdvertise"]
   path = xAdvertise
   url = https://github.com/SuperDomX/xAdvertise.git
+[submodule "xSponsors"]
+  path = xSponsors
+  url = https://github.com/SuperDomX/xSponsors.git
