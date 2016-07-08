@@ -97,3 +97,6 @@
 [submodule "xSponsors"]
   path = xSponsors
   url = https://github.com/SuperDomX/xSponsors.git
+[submodule "xShield"]
+  path = xShield
+  url = https://github.com/SuperDomX/xShield.git
