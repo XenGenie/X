@@ -100,3 +100,6 @@
 [submodule "xShield"]
   path = xShield
   url = https://github.com/SuperDomX/xShield.git
+[submodule "xMagicWand"]
+  path = xMagicWand
+  url = https://github.com/SuperDomX/xMagicWand.git
